@@ -19,7 +19,11 @@ It helps manage grocery products, build smart shopping lists, compare prices acr
 
 ## Download
 
-The Windows installer is available from the GitHub Releases page.
+Download the latest Windows build:
+
+[SmartGroceryManager-1.0.0-Windows-x64.zip](releases/SmartGroceryManager-1.0.0-Windows-x64.zip)
+
+Unzip the archive and run `Smart Grocery Manager 1.0.0 Setup.exe`.
 
 ## Development
 
