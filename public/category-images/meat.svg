@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <defs><filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#020617" flood-opacity="0.12"/></filter></defs>
+  <rect width="900" height="900" rx="56" fill="#f8fafc"/>
+  <g filter="url(#shadow)">
+    <path d="M238 502 C238 386 350 304 486 314 C612 324 695 414 670 528 C644 642 496 680 360 642 C286 622 238 568 238 502 Z" fill="#fb9bad"/>
+    <path d="M288 502 C292 430 368 374 468 378 C568 382 632 446 616 520 C600 596 496 626 394 604 C332 590 286 554 288 502 Z" fill="#ffd1da"/>
+    <path d="M370 454 C438 416 526 428 576 490" fill="none" stroke="#f47286" stroke-width="22" stroke-linecap="round" opacity="0.75"/>
+    <path d="M342 548 C420 582 512 578 574 528" fill="none" stroke="#f47286" stroke-width="18" stroke-linecap="round" opacity="0.55"/>
+  </g>
+</svg>
